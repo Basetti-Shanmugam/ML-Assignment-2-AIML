@@ -1,0 +1,6 @@
+ML Model Name,Train Accuracy,"CV Accuracy (5-fold, train only)",CV Std,Test Accuracy,Train-Test Gap
+Logistic Regression,0.926,0.9243,0.003,0.9192,0.0068
+Decision Tree,0.9518,0.9112,0.0059,0.907,0.0448
+KNN,1.0,0.924,0.0055,0.9136,0.0864
+Naive Bayes,0.8972,0.8968,0.006,0.897,0.0002
+SVM,0.9342,0.93,0.0057,0.921,0.0132

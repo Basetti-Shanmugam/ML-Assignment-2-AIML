@@ -1,0 +1,11 @@
+# Pinned to the versions used to train and test this project (see reports/TESTING_REPORT.md).
+# scikit-learn MUST match exactly: the .joblib pipelines were saved with 1.8.0.
+streamlit==1.66.1
+scikit-learn==1.8.0
+pandas==3.0.2
+numpy==2.4.4
+joblib==1.5.3
+matplotlib==3.10.8
+seaborn==0.13.2
+openpyxl==3.1.5
+ucimlrepo==0.0.7

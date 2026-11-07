@@ -1,0 +1,8 @@
+# Extra packages only needed to run/re-execute the Jupyter notebook locally.
+# (Kept out of requirements.txt so Streamlit Cloud installs fewer packages.)
+-r requirements.txt
+jupyter
+nbformat
+nbconvert
+ipykernel
+reportlab
